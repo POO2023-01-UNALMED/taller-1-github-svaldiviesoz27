@@ -1,0 +1,1 @@
+Porque se creó el archivo dentro de la carpeta y git detectó el cambio en la estructura de directorios.
