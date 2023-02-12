@@ -1,0 +1,1 @@
+El git no detectaba la carpeta "archivos"
